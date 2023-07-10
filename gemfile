@@ -1,0 +1,10 @@
+# Gemfile
+source 'https://rubygems.org'
+gem 'rspec'
+gem 'sinatra'
+gem 'json'
+gem 'webmock'
+gem 'rack-test'
+gem 'zlib'
+gem 'rubocop'
+gem 'rufus-scheduler'

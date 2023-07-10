@@ -1,0 +1,1 @@
+{"Package Name":"abc","Versions":"2.2.1","Date/Publication":"2022-05-19 07:20:02 UTC","Title":"Tools for Approximate Bayesian Computation (ABC)","Authors":"Csillery Katalin [aut],, c(","License":"GPL (>= 3)","Maintainers":"Blum Michael <michael.blum.temp@gmail.com>","Dependencies":"R (>= 2.10),abc.data,nnet,quantreg,MASS,locfit","R Version needed":"2.10"}
